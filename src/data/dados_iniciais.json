@@ -3,6 +3,7 @@
     {
       "titulo": "Música boa - Internacionais",
       "link": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db",
+      "cor": "#fff",
       "link_extra": {
         "text": "Seleção de músicas no Youtube",
         "url": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db"
@@ -41,7 +42,7 @@
     {
       "titulo": "Música boa - Nacionais",
       "link": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc",
-      "cor": "#00C86F",
+      "cor": "#fff",
       "link_extra": {
         "text": "Seleção de músicas no Youtube",
         "url": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc"
@@ -83,7 +84,7 @@
     },
     {
       "titulo": "Curso de Angular",
-      "cor": "#9cd33b",
+      "cor": "#fff",
       "link_extra": {
         "text": "Curso de Angular da Loiane Groner no YouTube",
         "url": "https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G"
@@ -109,7 +110,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#fff",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -131,7 +132,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "#6BD1FF",
+      "cor": "#fff",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -161,7 +162,7 @@
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#fff",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
