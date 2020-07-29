@@ -24,3 +24,7 @@ body {
 a {
   color: inherit;
 } 
+
+.main-content {
+  background-color: black;
+}

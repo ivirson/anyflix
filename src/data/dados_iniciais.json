@@ -1,101 +1,109 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Música boa - Internacionais",
+      "link": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Seleção de músicas no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Burn the Ships - for KING & COUNTRY",
+          "url": "https://www.youtube.com/watch?v=pOVrOuKVBuY&list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db&index=13"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Together - for KING & COUNTRY (feat. Kirk Franklin & Tori Kelly)",
+          "url": "https://www.youtube.com/watch?v=lR1Hk0FVi_k"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Better - Brian McKnight",
+          "url": "https://youtu.be/O2GHoOj4alk?list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Perfect - Ed Sheeran",
+          "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g&list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db&index=3"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "For Those Who Can't Speak - Tenth Avenue North (ft. Derek Minor, KB)",
+          "url": "https://www.youtube.com/watch?v=1cQDQ-4Owvg&list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db&index=9"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Finally Home - Jeremy Camp",
+          "url": "https://www.youtube.com/watch?v=O66T_z5NkRo&list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db&index=7"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "I Just Need U - TobyMac",
+          "url": "https://www.youtube.com/watch?v=4wNpOeakhEM&list=PLZ-AY5YrPtnkze1maCSWyWwq7H_-zp4Db&index=11"
+        }      
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Música boa - Nacionais",
+      "link": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Seleção de músicas no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Espelho - Novo Som",
+          "url": "https://www.youtube.com/watch?v=OXjgJnw8WYk&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=2&t=0s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Colossenses 1 / Da vida, o melhor - Projeto Sola",
+          "url": "https://www.youtube.com/watch?v=Xzbj3r3h7ps&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=2"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "A Partida e o Norte - Estevão Queiroga",
+          "url": "https://www.youtube.com/watch?v=tJ_zR6KKNII&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=3"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Átrios - Felipe Valente",
+          "url": "https://www.youtube.com/watch?v=687lRUYDWiM&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Senhor do tempo - Paulo César Baruk",
+          "url": "https://www.youtube.com/watch?v=4jjanm4kRnA&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=5"
+        }, 
+        {
+          "titulo": "O seu amor por mim - Weslei Santos",
+          "url": "https://www.youtube.com/watch?v=7UI8K9U6_Vw&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=6"
+        }, 
+        {
+          "titulo": "Pequeninos - Mauro Henrique",
+          "url": "https://www.youtube.com/watch?v=qMt6R88UPkQ&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=7"
+        }, 
+        {
+          "titulo": "Cego - Oficina G3",
+          "url": "https://www.youtube.com/watch?v=Vg2IZ7yjepc&list=PLZ-AY5YrPtnlNs2o8wM-RGVTi8cA6VdVc&index=9"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Curso de Angular",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Curso de Angular da Loiane Groner no YouTube",
+        "url": "https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Angular 2 - Introdução",
+          "url": "https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Novidades Angular 4.x e CLI",
+          "url": "https://www.youtube.com/watch?v=sXTSHra2fvU&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G&index=2"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Curso Angular #02: Ambiente de Desenvolvimento (Node.JS, TypeScript, Angular CLI)",
+          "url": "https://www.youtube.com/watch?v=XxPjcMTZz5w&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G&index=3"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Curso Angular #03: Hello, World! Criando primeiro projeto e o primeiro Componente",
+          "url": "https://www.youtube.com/watch?v=wBrIT2Z8t5I&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G&index=4"
         }
       ]
     },
