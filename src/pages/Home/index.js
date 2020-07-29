@@ -1,21 +1,22 @@
 import React from 'react';
-import Menu from './components/Menu';
-import BannerMain from './components/BannerMain';
-import dadosIniciais from './data/dados_iniciais.json'
-import Carousel from './components/Carousel';
+import Menu from '../../components/Menu'
+import dadosIniciais from '../../data/dados_iniciais.json';
+import BannerMain from '../../components/BannerMain';
+import Carousel from '../../components/Carousel';
+import Footer from '../../components/Footer';
 
-function App() {
+function Home() {
   return (
-    <div className="main-content">
+    <div style={{ background: "#141414" }}>
       <Menu />
 
-      <BannerMain 
+      <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={'Seleção de músicas internacionais que embalam meus dias de trabalho, ajudando a relaxar e concentrar.'}
+        videoDescription={"Seleção de músicas internacionais que embalam meus dias de trabalho, ajudando a relaxar e concentrar."}
       />
 
-      <Carousel 
+      <Carousel
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
@@ -26,21 +27,23 @@ function App() {
 
       <Carousel
         category={dadosIniciais.categorias[2]}
-      />
+      />      
 
       <Carousel
         category={dadosIniciais.categorias[3]}
-      />
+      />      
 
       <Carousel
         category={dadosIniciais.categorias[4]}
-      />
+      />      
 
       <Carousel
         category={dadosIniciais.categorias[5]}
-      />
+      />      
+
+      <Footer />
     </div>
   );
 }
 
-export default App;
+export default Home;

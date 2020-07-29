@@ -131,7 +131,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#6BD1FF",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
