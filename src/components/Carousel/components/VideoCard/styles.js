@@ -1,5 +1,28 @@
 import styled from 'styled-components';
 
+export const VideoCardContainerDiv= styled.div`
+  opacity: 1;
+
+  p {
+    display: none;
+  }
+
+  &:hover {
+    opacity: .5;
+
+    p {
+      display: block;
+      opacity: 1 !important;
+      position: absolute;
+      z-index: 1000;
+      font-size: 1.3rem;
+      width: 300px;
+      bottom: 0;
+      margin-bottom: 3.5rem;
+    }
+  }
+`;
+
 export const VideoCardContainer = styled.a`
   border-radius: 0;
   text-decoration: none;
@@ -20,7 +43,7 @@ export const VideoCardContainer = styled.a`
   transition: opacity .3s;
   &:hover,
   &:focus {
-    opacity: 1;
+    /* filter: opacity(50%); */
     transform: scale(1.2) !important;
     z-index: 2;
     outline: 1px solid var(--white);
